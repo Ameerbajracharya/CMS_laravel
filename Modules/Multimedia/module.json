@@ -1,0 +1,14 @@
+{
+    "name": "Multimedia",
+    "alias": "multimedia",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Multimedia\\Providers\\MultimediaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
